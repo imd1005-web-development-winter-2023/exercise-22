@@ -1,7 +1,3 @@
-# exercise-22
-
-Exercise 22
-
 # Exercise 22 - My first Vue.JS App
 
 For this exercise, you are going to write a couple of lines of JavaScript to finish our Vue.JS setup function and also write one line in our HTML template so that all of the pokemons in the array are looped through and printed on the web page.
